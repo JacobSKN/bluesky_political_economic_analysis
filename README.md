@@ -65,7 +65,7 @@ The analysis generates several key visualizations:
 
 The following table shows the Regression Discontinuity Design results calculated using a 3-day rolling average and 14-day bandwidth:
 
-| Kategorie | RDD Ergebnisse | p-value |
+| Category | RDD Results | p-value |
 |-----------|----------------|---------|
 | Fiskal/Monetär | 18.38 % | 0.0002 (***) |
 | Arbeit/Soziales | -11.55 % | 0.0002 (***) |
