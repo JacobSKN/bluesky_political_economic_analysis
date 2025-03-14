@@ -120,10 +120,10 @@ If you use this code or analysis in your work, please cite:
 
 ```
 @misc{german_economic_discourse_2025,
-  author = {Your Name},
+  author = {Jacob Schildknecht},
   title = {German Political Economic Discourse Analysis},
   year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/yourusername/german-economic-discourse}
+  url = {https://github.com/JacobSKN/german-economic-discourse}
 }
 ```
